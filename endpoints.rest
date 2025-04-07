@@ -10,7 +10,8 @@
 GET {{apiUrl}}
 
 ### Recipe Detail Endpoint
-GET {{apiUrl}}recipe/1
+GET {{apiUrl}}recipe/5
+
 
 ### Add Recipe Endpoint
 POST {{apiUrl}}recipe/add
